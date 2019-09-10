@@ -1,4 +1,4 @@
-docker run -u root --rm \
+sudo docker run -u root --rm \
 -d \
 --memory=640m \
 --memory-swap=1.5g \
